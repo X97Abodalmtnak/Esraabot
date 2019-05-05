@@ -35,7 +35,8 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['ahelp','Esraa...'];
+    var setGame = ['ahelp','Càlin server
+'];
     var i = -1;
     var j = 0;
     setInterval(function (){
