@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['ahelp','Càlin server
+    var setGame = ['ahelp','Calin server
 '];
     var i = -1;
     var j = 0;
